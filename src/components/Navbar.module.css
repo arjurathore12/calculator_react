@@ -1,0 +1,12 @@
+.nav {
+  width: 30vw;
+  margin: auto;
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  box-shadow: 0 0 3px 4px black;
+  border-radius: 40%;
+}
+.nav h1 {
+  text-shadow: 2px 2px black;
+  color: white;
+  text-align: center;
+}
